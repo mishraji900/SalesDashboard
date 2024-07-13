@@ -16,7 +16,7 @@ The sales director of AtliQ Hardware decided to build a PowerBI Dashboard for co
 
 By using the AIMS grid project management tool, we ensured that the purpose, stakeholders, result, and success criteria of our project were clear.
 
-![AIMS Grid](https://github.com/mishraji900/Sales-Dashboard/blob/main/Screenshot%202024-07-10%20215119.png)
+![AIMS Grid](https://github.com/mishraji900/SalesDashboard/blob/main/Screenshot%202024-07-10%20215119.png)
 
 ## Steps Followed in This Project
 
@@ -36,8 +36,8 @@ By using the AIMS grid project management tool, we ensured that the purpose, sta
 
 ### Insights
 
-1. The company generated a total revenue of ₹985M over 4 years, with a total profit margin of ₹24.7M, a profit margin of 2.5%, and sales quantity of ₹2M. In 2020, the company generated a total revenue of ₹142M by selling 350K units and earned a profit of ₹2.1M.
-2. Over 4 years, Delhi NCR is the largest market in terms of revenue with ₹520M and a total contribution of 52.8%, but it has a profit margin of only 2.3%.
+1. The company generated a total revenue of ₹985M over 4 years, with a total profit margin of ₹24.7M, a profit margin of 2.5%, and a sales quantity of ₹2M. In 2020, the company generated a total revenue of ₹142M by selling 350K units and earned a profit of ₹2.1M.
+2. Over 4 years, Delhi NCR has been the largest market in terms of revenue with ₹520M and a total contribution of 52.8%, but it has a profit margin of only 2.3%.
 3. In 2020, Bhubaneshwar had the highest profit margin of 10.48%. Mumbai has the largest profit contribution percentage with 23.89%.
 4. Bengaluru generated the lowest profit margin of -20.8% over 4 years, with the lowest profit contribution percentage of -0.3%.
 5. Electricalsara Stores is the biggest customer, generating ₹413M in revenue over 4 years.
@@ -57,12 +57,12 @@ By using the AIMS grid project management tool, we ensured that the purpose, sta
 
 #### Dashboard KPI Page
 
-![Dashboard KPI Page](https://github.com/mishraji900/Sales-Dashboard/blob/main/1%20-%20key%20Insights.PNG)
+![Dashboard KPI Page](https://github.com/mishraji900/SalesDashboard/blob/main/1%20-%20key%20Insights.PNG)
 
 #### Dashboard Performance Insights
 
-![Dashboard Performance Insights](https://github.com/mishraji900/Sales-Dashboard/blob/main/2%20-%20Profit%20Analysis.PNG)
+![Dashboard Performance Insights](https://github.com/mishraji900/SalesDashboard/blob/main/2%20-%20Profit%20Analysis.PNG)
 
 #### Dashboard Profit Analysis
 
-![Dashboard Profit Analysis](https://github.com/mishraji900/Sales-Dashboard/blob/main/3%20-%20Performance%20Insights.PNG)
+![Dashboard Profit Analysis](https://github.com/mishraji900/SalesDashboard/blob/main/3%20-%20Performance%20Insights.PNG)
